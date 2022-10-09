@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vijay
+- 👋 Hi, I’m Vijay Gunwant
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python , C++ and Java
 - 📫 How to reach me ...mrv7259@gmail.com
